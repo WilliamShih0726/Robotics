@@ -1,5 +1,5 @@
-# Robotics_Project
+# Robotics
 
-## Project_1
+## Project 1
 
-## Project_2
+## Project 2
